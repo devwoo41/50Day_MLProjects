@@ -7,3 +7,7 @@ Day 3 - Score : 0.43707
 |
 V
 Day 4 - Score : 0.38312
+|
+|
+V
+Day 5 - Score : 0.36771
